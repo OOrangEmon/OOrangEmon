@@ -4,7 +4,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=FF6EFF&center=true&vCenter=true&width=600&lines=jack+of+all+shits;man+that+was+sorry...;%3Cmynameis%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=FF6EFF&center=true&vCenter=true&width=600&lines=jack+of+all+shits;sorry...;%3Cmynameis%3E)](https://git.io/typing-svg)
 
 ---
 
